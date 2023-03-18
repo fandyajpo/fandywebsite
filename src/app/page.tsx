@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="bg-black/70 w-full h-screen flex items-center justify-center flex-col gap-8">
       <p className="text-white px-4">
-        Assalamu'alaikum bro, Fanvercel disini bersama sapi kesayangan
+        Assalamu{"'"}alaikum bro, Fanvercel disini bersama sapi kesayangan
       </p>
       <div className="animate-bounce">
         <svg
